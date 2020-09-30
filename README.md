@@ -11,7 +11,7 @@ Application Programming Interfaces (APIs) used in this project :
 - Wolfram Alpha API. You have to register on [WolframAlpha's Developer portal](https://developer.wolframalpha.com/portal/apisignup.html) and register an application. Then enter the ID given to you as value of the static String "appid" in WolframRequest.java 
 
 This application MUST be used with a PHP server you have access to (access means that you have the username, password and ftp server adress of this server).
-There are great Web Hosting services such as [alwaysdata.com](https://www.alwaysdata.com/) wich offers free mutualised hosting plans (for free) that support a bunch of languages (Django, Ruby on Rails, Symfony, Python, PHP, and others)
+There are great Web Hosting services such as [alwaysdata.com](https://www.alwaysdata.com/) which offers free mutualised hosting plans (for free) that support a bunch of languages (Django, Ruby on Rails, Symfony, Python, PHP, and others)
 
 **What do I put on my server?**
 
@@ -33,7 +33,7 @@ When you're done, go into the main class (`Atom.java`) and Run the app. If you h
 Licensing
 ---------
 
-This software is free. You are allowed to reuse it under the terms of the [Creative Commons Attributions-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) license. it basically means you can do whatever you want with it. Though, you are NOT allowed to sell it, or even commercially, to make profit.
+This software is free. You are allowed to reuse it under the terms of the [Creative Commons Attributions-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) license. It basically means you can do whatever you want to do with it. Though, you are NOT allowed to sell it, or even commercially, to make profit.
 If you would like to use it for more than the previous license allows (e.g. run a commercial server that makes people pay for it), please contact me and ask for a special (commercial) license.
 
 
